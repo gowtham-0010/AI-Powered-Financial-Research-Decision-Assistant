@@ -1,0 +1,85 @@
+########################################
+# Python
+########################################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+########################################
+# Virtual Environments
+########################################
+RAGML/
+venv/
+.env.local
+.env.production
+
+########################################
+# Logs
+########################################
+logs/
+*.log
+
+########################################
+# Vector Store (large binary files)
+# Tracked via Git LFS
+########################################
+# DO NOT ignore model/vector binaries here
+# They are handled by Git LFS
+# Example:
+# vector_store/database/*.bin
+# vector_store/database/*.index
+
+########################################
+# ML Models (tracked via Git LFS)
+########################################
+# ml_models/trained_models/*.pkl
+
+########################################
+# Data
+########################################
+data/raw/
+data/interim/
+
+########################################
+# Caches
+########################################
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+########################################
+# OS Files
+########################################
+.DS_Store
+Thumbs.db
+desktop.ini
+
+########################################
+# IDE / Editors
+########################################
+.vscode/
+.idea/
+*.swp
+*.swo
+
+########################################
+# Jupyter
+########################################
+.ipynb_checkpoints/
+
+########################################
+# Build / Distribution
+########################################
+build/
+dist/
+*.whl
+
+########################################
+# Hugging Face / Transformers cache
+########################################
+.huggingface/
+transformers_cache/

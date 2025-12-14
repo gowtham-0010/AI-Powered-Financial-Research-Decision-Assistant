@@ -1,0 +1,402 @@
+[
+  {
+    "id": "doc_0",
+    "title": "AAPL Q3 2024 Earnings Report",
+    "content": "AAPL reported strong Q3 results with revenue growth of 15.3% YoY. Gross margin improved to 46.2%, up from 44.8% in Q3 2023. EPS grew 18% YoY. The company guided for 12-15% growth in Q4.",
+    "source": "Investor Relations",
+    "company": "AAPL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_1",
+    "title": "MSFT Q3 2024 Earnings Report",
+    "content": "MSFT reported strong Q3 results with revenue growth of 15.3% YoY. Gross margin improved to 46.2%, up from 44.8% in Q3 2023. EPS grew 18% YoY. The company guided for 12-15% growth in Q4.",
+    "source": "Investor Relations",
+    "company": "MSFT",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_2",
+    "title": "GOOGL Q3 2024 Earnings Report",
+    "content": "GOOGL reported strong Q3 results with revenue growth of 15.3% YoY. Gross margin improved to 46.2%, up from 44.8% in Q3 2023. EPS grew 18% YoY. The company guided for 12-15% growth in Q4.",
+    "source": "Investor Relations",
+    "company": "GOOGL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_3",
+    "title": "AMZN Q3 2024 Earnings Report",
+    "content": "AMZN reported strong Q3 results with revenue growth of 15.3% YoY. Gross margin improved to 46.2%, up from 44.8% in Q3 2023. EPS grew 18% YoY. The company guided for 12-15% growth in Q4.",
+    "source": "Investor Relations",
+    "company": "AMZN",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_4",
+    "title": "TSLA Q3 2024 Earnings Report",
+    "content": "TSLA reported strong Q3 results with revenue growth of 15.3% YoY. Gross margin improved to 46.2%, up from 44.8% in Q3 2023. EPS grew 18% YoY. The company guided for 12-15% growth in Q4.",
+    "source": "Investor Relations",
+    "company": "TSLA",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_5",
+    "title": "Technology Sector Analysis - Q4 2024",
+    "content": "The technology sector continues to benefit from AI adoption and cloud computing growth. Major players are investing heavily in R&D. Analyst consensus remains positive with 12-month price targets suggesting 20-25% upside.",
+    "source": "Morgan Stanley Research",
+    "company": "AAPL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_6",
+    "title": "Technology Sector Analysis - Q4 2024",
+    "content": "The technology sector continues to benefit from AI adoption and cloud computing growth. Major players are investing heavily in R&D. Analyst consensus remains positive with 12-month price targets suggesting 20-25% upside.",
+    "source": "Morgan Stanley Research",
+    "company": "MSFT",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_7",
+    "title": "Technology Sector Analysis - Q4 2024",
+    "content": "The technology sector continues to benefit from AI adoption and cloud computing growth. Major players are investing heavily in R&D. Analyst consensus remains positive with 12-month price targets suggesting 20-25% upside.",
+    "source": "Morgan Stanley Research",
+    "company": "GOOGL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_8",
+    "title": "Technology Sector Analysis - Q4 2024",
+    "content": "The technology sector continues to benefit from AI adoption and cloud computing growth. Major players are investing heavily in R&D. Analyst consensus remains positive with 12-month price targets suggesting 20-25% upside.",
+    "source": "Morgan Stanley Research",
+    "company": "AMZN",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_9",
+    "title": "Technology Sector Analysis - Q4 2024",
+    "content": "The technology sector continues to benefit from AI adoption and cloud computing growth. Major players are investing heavily in R&D. Analyst consensus remains positive with 12-month price targets suggesting 20-25% upside.",
+    "source": "Morgan Stanley Research",
+    "company": "TSLA",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_10",
+    "title": "AAPL Stock Rating: BUY",
+    "content": "We initiate coverage of AAPL with a BUY rating and $250 price target. The company has a strong competitive moat, excellent cash generation, and attractive growth prospects. Valuation appears reasonable given growth rates.",
+    "source": "Goldman Sachs Equity Research",
+    "company": "AAPL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_11",
+    "title": "MSFT Stock Rating: BUY",
+    "content": "We initiate coverage of MSFT with a BUY rating and $250 price target. The company has a strong competitive moat, excellent cash generation, and attractive growth prospects. Valuation appears reasonable given growth rates.",
+    "source": "Goldman Sachs Equity Research",
+    "company": "MSFT",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_12",
+    "title": "GOOGL Stock Rating: BUY",
+    "content": "We initiate coverage of GOOGL with a BUY rating and $250 price target. The company has a strong competitive moat, excellent cash generation, and attractive growth prospects. Valuation appears reasonable given growth rates.",
+    "source": "Goldman Sachs Equity Research",
+    "company": "GOOGL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_13",
+    "title": "AMZN Stock Rating: BUY",
+    "content": "We initiate coverage of AMZN with a BUY rating and $250 price target. The company has a strong competitive moat, excellent cash generation, and attractive growth prospects. Valuation appears reasonable given growth rates.",
+    "source": "Goldman Sachs Equity Research",
+    "company": "AMZN",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_14",
+    "title": "TSLA Stock Rating: BUY",
+    "content": "We initiate coverage of TSLA with a BUY rating and $250 price target. The company has a strong competitive moat, excellent cash generation, and attractive growth prospects. Valuation appears reasonable given growth rates.",
+    "source": "Goldman Sachs Equity Research",
+    "company": "TSLA",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_15",
+    "title": "Interest Rate Impact on Technology Stocks",
+    "content": "With the Fed pausing rate hikes, technology stocks are rebounding. Lower rates increase the present value of future earnings. We expect outperformance of growth stocks in this environment.",
+    "source": "Bloomberg Intelligence",
+    "company": "AAPL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_16",
+    "title": "Interest Rate Impact on Technology Stocks",
+    "content": "With the Fed pausing rate hikes, technology stocks are rebounding. Lower rates increase the present value of future earnings. We expect outperformance of growth stocks in this environment.",
+    "source": "Bloomberg Intelligence",
+    "company": "MSFT",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_17",
+    "title": "Interest Rate Impact on Technology Stocks",
+    "content": "With the Fed pausing rate hikes, technology stocks are rebounding. Lower rates increase the present value of future earnings. We expect outperformance of growth stocks in this environment.",
+    "source": "Bloomberg Intelligence",
+    "company": "GOOGL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_18",
+    "title": "Interest Rate Impact on Technology Stocks",
+    "content": "With the Fed pausing rate hikes, technology stocks are rebounding. Lower rates increase the present value of future earnings. We expect outperformance of growth stocks in this environment.",
+    "source": "Bloomberg Intelligence",
+    "company": "AMZN",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_19",
+    "title": "Interest Rate Impact on Technology Stocks",
+    "content": "With the Fed pausing rate hikes, technology stocks are rebounding. Lower rates increase the present value of future earnings. We expect outperformance of growth stocks in this environment.",
+    "source": "Bloomberg Intelligence",
+    "company": "TSLA",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_20",
+    "title": "AAPL Competitive Position Strengthens",
+    "content": "Recent market share gains and product launches position AAPL well for 2025. The company is expanding into high-margin services, which should support margin expansion.",
+    "source": "Barclays Equity Research",
+    "company": "AAPL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_21",
+    "title": "MSFT Competitive Position Strengthens",
+    "content": "Recent market share gains and product launches position MSFT well for 2025. The company is expanding into high-margin services, which should support margin expansion.",
+    "source": "Barclays Equity Research",
+    "company": "MSFT",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_22",
+    "title": "GOOGL Competitive Position Strengthens",
+    "content": "Recent market share gains and product launches position GOOGL well for 2025. The company is expanding into high-margin services, which should support margin expansion.",
+    "source": "Barclays Equity Research",
+    "company": "GOOGL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_23",
+    "title": "AMZN Competitive Position Strengthens",
+    "content": "Recent market share gains and product launches position AMZN well for 2025. The company is expanding into high-margin services, which should support margin expansion.",
+    "source": "Barclays Equity Research",
+    "company": "AMZN",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_24",
+    "title": "TSLA Competitive Position Strengthens",
+    "content": "Recent market share gains and product launches position TSLA well for 2025. The company is expanding into high-margin services, which should support margin expansion.",
+    "source": "Barclays Equity Research",
+    "company": "TSLA",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_0",
+    "title": "AAPL Q3 2024 Earnings Report",
+    "content": "AAPL reported strong Q3 results with revenue growth of 15.3% YoY. Gross margin improved to 46.2%, up from 44.8% in Q3 2023. EPS grew 18% YoY. The company guided for 12-15% growth in Q4.",
+    "source": "Investor Relations",
+    "company": "AAPL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_1",
+    "title": "MSFT Q3 2024 Earnings Report",
+    "content": "MSFT reported strong Q3 results with revenue growth of 15.3% YoY. Gross margin improved to 46.2%, up from 44.8% in Q3 2023. EPS grew 18% YoY. The company guided for 12-15% growth in Q4.",
+    "source": "Investor Relations",
+    "company": "MSFT",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_2",
+    "title": "GOOGL Q3 2024 Earnings Report",
+    "content": "GOOGL reported strong Q3 results with revenue growth of 15.3% YoY. Gross margin improved to 46.2%, up from 44.8% in Q3 2023. EPS grew 18% YoY. The company guided for 12-15% growth in Q4.",
+    "source": "Investor Relations",
+    "company": "GOOGL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_3",
+    "title": "AMZN Q3 2024 Earnings Report",
+    "content": "AMZN reported strong Q3 results with revenue growth of 15.3% YoY. Gross margin improved to 46.2%, up from 44.8% in Q3 2023. EPS grew 18% YoY. The company guided for 12-15% growth in Q4.",
+    "source": "Investor Relations",
+    "company": "AMZN",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_4",
+    "title": "TSLA Q3 2024 Earnings Report",
+    "content": "TSLA reported strong Q3 results with revenue growth of 15.3% YoY. Gross margin improved to 46.2%, up from 44.8% in Q3 2023. EPS grew 18% YoY. The company guided for 12-15% growth in Q4.",
+    "source": "Investor Relations",
+    "company": "TSLA",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_5",
+    "title": "Technology Sector Analysis - Q4 2024",
+    "content": "The technology sector continues to benefit from AI adoption and cloud computing growth. Major players are investing heavily in R&D. Analyst consensus remains positive with 12-month price targets suggesting 20-25% upside.",
+    "source": "Morgan Stanley Research",
+    "company": "AAPL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_6",
+    "title": "Technology Sector Analysis - Q4 2024",
+    "content": "The technology sector continues to benefit from AI adoption and cloud computing growth. Major players are investing heavily in R&D. Analyst consensus remains positive with 12-month price targets suggesting 20-25% upside.",
+    "source": "Morgan Stanley Research",
+    "company": "MSFT",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_7",
+    "title": "Technology Sector Analysis - Q4 2024",
+    "content": "The technology sector continues to benefit from AI adoption and cloud computing growth. Major players are investing heavily in R&D. Analyst consensus remains positive with 12-month price targets suggesting 20-25% upside.",
+    "source": "Morgan Stanley Research",
+    "company": "GOOGL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_8",
+    "title": "Technology Sector Analysis - Q4 2024",
+    "content": "The technology sector continues to benefit from AI adoption and cloud computing growth. Major players are investing heavily in R&D. Analyst consensus remains positive with 12-month price targets suggesting 20-25% upside.",
+    "source": "Morgan Stanley Research",
+    "company": "AMZN",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_9",
+    "title": "Technology Sector Analysis - Q4 2024",
+    "content": "The technology sector continues to benefit from AI adoption and cloud computing growth. Major players are investing heavily in R&D. Analyst consensus remains positive with 12-month price targets suggesting 20-25% upside.",
+    "source": "Morgan Stanley Research",
+    "company": "TSLA",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_10",
+    "title": "AAPL Stock Rating: BUY",
+    "content": "We initiate coverage of AAPL with a BUY rating and $250 price target. The company has a strong competitive moat, excellent cash generation, and attractive growth prospects. Valuation appears reasonable given growth rates.",
+    "source": "Goldman Sachs Equity Research",
+    "company": "AAPL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_11",
+    "title": "MSFT Stock Rating: BUY",
+    "content": "We initiate coverage of MSFT with a BUY rating and $250 price target. The company has a strong competitive moat, excellent cash generation, and attractive growth prospects. Valuation appears reasonable given growth rates.",
+    "source": "Goldman Sachs Equity Research",
+    "company": "MSFT",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_12",
+    "title": "GOOGL Stock Rating: BUY",
+    "content": "We initiate coverage of GOOGL with a BUY rating and $250 price target. The company has a strong competitive moat, excellent cash generation, and attractive growth prospects. Valuation appears reasonable given growth rates.",
+    "source": "Goldman Sachs Equity Research",
+    "company": "GOOGL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_13",
+    "title": "AMZN Stock Rating: BUY",
+    "content": "We initiate coverage of AMZN with a BUY rating and $250 price target. The company has a strong competitive moat, excellent cash generation, and attractive growth prospects. Valuation appears reasonable given growth rates.",
+    "source": "Goldman Sachs Equity Research",
+    "company": "AMZN",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_14",
+    "title": "TSLA Stock Rating: BUY",
+    "content": "We initiate coverage of TSLA with a BUY rating and $250 price target. The company has a strong competitive moat, excellent cash generation, and attractive growth prospects. Valuation appears reasonable given growth rates.",
+    "source": "Goldman Sachs Equity Research",
+    "company": "TSLA",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_15",
+    "title": "Interest Rate Impact on Technology Stocks",
+    "content": "With the Fed pausing rate hikes, technology stocks are rebounding. Lower rates increase the present value of future earnings. We expect outperformance of growth stocks in this environment.",
+    "source": "Bloomberg Intelligence",
+    "company": "AAPL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_16",
+    "title": "Interest Rate Impact on Technology Stocks",
+    "content": "With the Fed pausing rate hikes, technology stocks are rebounding. Lower rates increase the present value of future earnings. We expect outperformance of growth stocks in this environment.",
+    "source": "Bloomberg Intelligence",
+    "company": "MSFT",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_17",
+    "title": "Interest Rate Impact on Technology Stocks",
+    "content": "With the Fed pausing rate hikes, technology stocks are rebounding. Lower rates increase the present value of future earnings. We expect outperformance of growth stocks in this environment.",
+    "source": "Bloomberg Intelligence",
+    "company": "GOOGL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_18",
+    "title": "Interest Rate Impact on Technology Stocks",
+    "content": "With the Fed pausing rate hikes, technology stocks are rebounding. Lower rates increase the present value of future earnings. We expect outperformance of growth stocks in this environment.",
+    "source": "Bloomberg Intelligence",
+    "company": "AMZN",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_19",
+    "title": "Interest Rate Impact on Technology Stocks",
+    "content": "With the Fed pausing rate hikes, technology stocks are rebounding. Lower rates increase the present value of future earnings. We expect outperformance of growth stocks in this environment.",
+    "source": "Bloomberg Intelligence",
+    "company": "TSLA",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_20",
+    "title": "AAPL Competitive Position Strengthens",
+    "content": "Recent market share gains and product launches position AAPL well for 2025. The company is expanding into high-margin services, which should support margin expansion.",
+    "source": "Barclays Equity Research",
+    "company": "AAPL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_21",
+    "title": "MSFT Competitive Position Strengthens",
+    "content": "Recent market share gains and product launches position MSFT well for 2025. The company is expanding into high-margin services, which should support margin expansion.",
+    "source": "Barclays Equity Research",
+    "company": "MSFT",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_22",
+    "title": "GOOGL Competitive Position Strengthens",
+    "content": "Recent market share gains and product launches position GOOGL well for 2025. The company is expanding into high-margin services, which should support margin expansion.",
+    "source": "Barclays Equity Research",
+    "company": "GOOGL",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_23",
+    "title": "AMZN Competitive Position Strengthens",
+    "content": "Recent market share gains and product launches position AMZN well for 2025. The company is expanding into high-margin services, which should support margin expansion.",
+    "source": "Barclays Equity Research",
+    "company": "AMZN",
+    "date": "2025-12-13"
+  },
+  {
+    "id": "doc_24",
+    "title": "TSLA Competitive Position Strengthens",
+    "content": "Recent market share gains and product launches position TSLA well for 2025. The company is expanding into high-margin services, which should support margin expansion.",
+    "source": "Barclays Equity Research",
+    "company": "TSLA",
+    "date": "2025-12-13"
+  }
+]
